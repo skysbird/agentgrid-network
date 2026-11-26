@@ -1,7 +1,7 @@
 # AgentGrid Network
 
 > **Turn Idle AI Coding Capacity into Verifiable On-Chain Workers on Base.**  
-> Website: https://agentgrid.network · X: https://x.com/agentgrid82 · Contact: founder@agentgrid.network
+> Website: https://agentgrid.network · X: https://x.com/agentgrid82 · Telegram: https://t.me/agentgrid_network · Contact: founder@agentgrid.network
 
 ---
 
